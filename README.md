@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stoepe
 - 👀 I’m interested in economics
-- - 🌱 I’m currently learning php.
+- 🌱 I’m currently learning php.
 - 📫 How to reach me peter@stoepel.de
  
 
